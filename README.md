@@ -22,9 +22,9 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop version screenshot](https://github.com/cadeMeuCode/newshomepage/blob/main/screenshots/mySolution--desktop.png?raw=true "Desktop")
-![mobile version screenshot](https://github.com/cadeMeuCode/newshomepage/blob/main/screenshots/mySolution--mobile.png?raw=true "Mobile")
-![mobile menu screenshot](https://github.com/cadeMeuCode/newshomepage/blob/main/screenshots/mySolution__menu--mobile.png?raw=true "Mobile menu")
+![desktop version screenshot](https://github.com/cadeMeuCode/newshomepage/blob/main/screenshots/mySolution--desktop.png?raw=true "Desktop")  
+![mobile version screenshot](https://github.com/cadeMeuCode/newshomepage/blob/main/screenshots/mySolution--mobile.png?raw=true "Mobile")  
+![mobile menu screenshot](https://github.com/cadeMeuCode/newshomepage/blob/main/screenshots/mySolution__menu--mobile.png?raw=true "Mobile menu")  
 
 
 
