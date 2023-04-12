@@ -1,0 +1,13 @@
+header {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    height: 6rem;
+    padding: 0 1rem;
+    justify-content: space-between;
+}
+
+h1 {
+    font-size: 3rem;
+    font-family: serif;
+}
