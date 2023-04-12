@@ -22,15 +22,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](../news-homepage-main/screenshots/mySolution--desktop.png)
-![](../news-homepage-main/screenshots/mySolution--mobile.png)
-![](../news-homepage-main/screenshots/mySolution__menu--mobile.png)
+![desktop version screenshot](https://github.com/cadeMeuCode/newshomepage/blob/main/screenshots/mySolution--desktop.png?raw=true "Desktop")
+![mobile version screenshot](https://github.com/cadeMeuCode/newshomepage/blob/main/screenshots/mySolution--mobile.png?raw=true "Mobile")
+![mobile menu screenshot](https://github.com/cadeMeuCode/newshomepage/blob/main/screenshots/mySolution__menu--mobile.png?raw=true "Mobile menu")
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Repo URL: [GitHub Repository](https://github.com/cadeMeuCode/newshomepage)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 
