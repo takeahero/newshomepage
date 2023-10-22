@@ -5,6 +5,7 @@ header {
     height: 6rem;
     padding: 0 1rem;
     justify-content: space-between;
+    position: relative;
 }
 
 h1 {

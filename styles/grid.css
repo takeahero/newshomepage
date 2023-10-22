@@ -6,7 +6,7 @@
         "new"
         "popular";
         grid-template-columns: 33.33% 33.33% 33.33%;
-        grid-template-rows: 33.33% 33.33% 33.33%;
+        grid-template-rows: 50% 50%;
     }
 
     .section__main {
