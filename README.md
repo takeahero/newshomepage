@@ -31,7 +31,6 @@ Users should be able to:
 ### Links
 
 - Repo URL: [GitHub Repository](https://github.com/cadeMeuCode/newshomepage)
-- Live Site URL: [Deploy](https://newshomepage-7vgvjj267-cademeucode.vercel.app/)
 
 
 ### Built with
